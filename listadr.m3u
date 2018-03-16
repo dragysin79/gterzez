@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:-1,[COLOR yellow]>>>BIKERDAYS FREE LIST<<<[/COLOR]
+skip
+#EXTINF:-1,[COLOR white]Tko želi platiti pivo>>>(paypal.me/bikerdaysHR)<<<[/COLOR]
+skip
+
+#EXTINF:-1,[COLOR green]---EXYU PROGRAMI---[/COLOR]
+skip
+
+
+#EXTINF:0, HRT1
+http://66.70.129.43:8080/Hrt1/index.m3u8
+
+#EXTINF:0, HRT2
+http://66.70.129.43:8080/Hrt2/index.m3u8
+
+#EXTINF:0,RTL LIVING
+http://66.70.129.43:8080/RTLLiving/index.m3u8
+
+#EXTINF:0, RTL 1
+http://323569365.e.970705972.r.pluscdn.com/970705972/_definst_/rtl1.stream/playlist.m3u8
+#EXTINF:0, RTL 2
+http://851949745.e.929594662.r.pluscdn.com/929594662/_definst_/rtl2.stream/playlist.m3u8
+
+#EXTINF:0, RTL 2
+rtmp://130.117.45.5:1935/P929594662/_definst_/rtl2.stream
+
+#EXTINF:0,RTV Banovina
+rtmp://video.radio-banovina.hr/live/myStream
+
+#EXTINF:0,trend tv
+rtmp://185.62.75.22:1935/trend/myStream
+
+#EXTINF:0,bht 1
+http://178.132.6.97/BA:BHT1SD/tracks-v1a1/index.m3u8
+#EXTINF:0,face tv
+http://178.132.6.97/FACETV/tracks-v1a1/index.m3u8
+#EXTINF:0,a1 balkan
+http://178.132.6.97/A1Balkan/tracks-v1a1/index.m3u8
+#EXTINF:0,al jazzera
+http://178.132.6.97/JazzeraAL/tracks-v1a1/index.m3u8
+
+
+#EXTINF:0, RTS 1
+http://66.70.129.43:8080/Rts1/index.m3u8
+
+#EXTINF:0, RTS2
+http://66.70.129.43:8080/Rts2/index.m3u8
+
+#EXTINF:-1,,Sarajevo 1 Tv
+rtmp://91.148.117.134:1935/radios/radiosweb.stream live=1
+
+#EXTINF:0,TV LESKOVAC
+http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
+
+#EXTINF:-1,SOS KANAL
+http://edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8
+
+#EXTINF:-1,TV DUGA
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+
+#EXTINF:-1,BN TV
+http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+
+#EXTINF:-1,JUG TV
+rtmp://84.20.77.50/live/livestream1
+
+#EXTINF:-1,plus tv
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+
+#EXTINF:-1,makedonija tv
+http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
+
+#EXTINF:-1,N1
+http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1HaN69IIuhN8yyI7y66f5VFXyKNHJa4BWz0vNyVKDNmEDe7TCowHwegw-ti8G-IpqZY1SbsEvP6LLd9NXPkDaF1TpEzzRyQQVmwd5FNBt5ScRbY6a2FzzfKEefyJwEeRBgFDO97f_bEZXeeEaltcMJNnNhOK7Q3lFZrpPoT4hfqkT4F7MR0hfjqj_G_R0a8s1fPiEzqTU1eQ4qvYOFwr7wEmo7P1fF9D9RJlrD3r4SapoDHtEp2fOIhL-kIj4ygfwY7Vwhpbu5cYgjrQNyN7L40wQ&sp=n1info&u=n1info&session=e6ec35e2-496f-4e93-92eb-8a5aa9edf3c6&player=m3u8
+
